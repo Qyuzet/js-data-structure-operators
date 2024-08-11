@@ -1,6 +1,6 @@
 # JS Data Structure Operators
 
-This project showcases various data structure operations implemented in JavaScript. The focus is on demonstrating basic and advanced operations on common data structures like arrays, stacks, queues, and linked lists.
+This project showcases various data structure operations implemented in JavaScript. The focus is on demonstrating basic and advanced operations on common data structures like arrays, stacks, queues, and linked lists...
 
 ## Features
 
